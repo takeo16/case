@@ -1,0 +1,35 @@
+body{
+    background-color: brown;
+}
+
+
+.form{
+    justify-content: center;
+    text-align: center;
+    font-size: 25px;
+    color: aliceblue;
+}
+
+.form_title{
+    letter-spacing: 2px;
+}
+
+.form_input{
+    padding: 10px;
+    border: 10px rgb(0, 168, 168) outset;
+    background-color: teal;
+    color: oldlace;
+}
+
+.form_but{
+    font-size: 20px;
+    color: oldlace;
+    border: 10px rgb(0, 168, 168) outset;
+    padding: 10px;
+    background-color: teal;
+    border-radius: 5px;
+}
+
+a{
+    text-decoration: none;
+}
